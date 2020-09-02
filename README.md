@@ -20,7 +20,7 @@ http://localhost:8100/order/new
 {  
 	"customerName": "Syam",
 	"orderDate": "06-02-2019",
-	"shippingAddress":"Hyd
+	"shippingAddress":"Hyd"
 }
 
 /order/{code}
